@@ -4,8 +4,8 @@ public class helloworld {
 
 	public static void main(String[] args) {
 		System.out.println("HELLO!");
-		System.out.println("HELLO! hello!");
-		System.out.println("HELLO! hello!222");
+		System.out.println("안녕안녕");
+		System.out.println("안녕안녕22");
 	}
 
 }
